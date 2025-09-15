@@ -11,15 +11,15 @@ and then apply them with a generic counter (`CountElement`) to count and print n
 ## Features
 
 1. **Odd Number Check**
-    - Counts how many odd numbers are in a collection.
+    - Counts how many odd numbers(integers that are not divisible by 2) are in a collection.
     - Prints all odd numbers.
 
 2. **Prime Number Check**
-    - Counts how many prime numbers are in a collection.
+    - Counts how many prime numbers(integers greater than 1 that have exactly two distinct positive divisors: 1 and themselves) are in a collection.
     - Prints all prime numbers.
 
 3. **Palindrome Number Check**
-    - Counts how many palindrome numbers are in a collection.
+    - Counts how many palindrome numbers(integers that remain the same when their digits are reversed) are in a collection.
     - Prints all palindrome numbers.
 
 ---
