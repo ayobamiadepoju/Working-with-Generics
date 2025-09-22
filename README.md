@@ -25,10 +25,13 @@ and then apply them with a generic counter (`CountElement`) to count and print n
 ---
 
 ## Project Structure
-├── checkers/
-│ ├── CheckOdd.java
-│ ├── CheckPrime.java
-│ ├── CheckPalindrome.java
-│ └── Check.java # Common interface
-├── CountElement.java # Generic counter utility
-└── Main.java # Entry point
+src/
+└── main/
+    └── java/
+        └── checkers/
+            ├── Check.java
+            ├── CheckOdd.java
+            ├── CheckPrime.java
+            ├── CheckPalindrome.java
+        ├── CountElement.java
+        └── Main.java
